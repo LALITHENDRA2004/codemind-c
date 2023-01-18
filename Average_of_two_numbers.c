@@ -2,8 +2,8 @@
 int main()
 {
     int a,b;
-    float c;
+    float n;
     scanf("%d%d",&a,&b);
-    c=(a+b)/2.0;
-    printf("Average of %d and %d is: %.2f",a,b,c);
+    n=(a+b)/2.0;
+    printf("Average of %d and %d is: %.2f",a,b,n);
 }
