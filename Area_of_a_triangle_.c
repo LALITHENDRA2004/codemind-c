@@ -2,8 +2,7 @@
 int main()
 {
     int b,h;
-    int a;
     scanf("%d%d",&b,&h);
-    a=0.5*b*h;
+    int a=0.5*b*h;
     printf("%d",a);
 }
